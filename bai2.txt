@@ -1,0 +1,15 @@
+Lập trình hướng đối tượng (OOP) là một kỹ thuật lập trình cho phép lập trình viên tạo ra các đối tượng trong code trừu tượng hóa các đối tượng.
+Đối tượng (Object)
+Đối tượng trong OOP bao gồm 2 thành phần chính:
+
+Thuộc tính (Attribute): là những thông tin, đặc điểm của đối tượng
+Phương thức (Method): là những hành vi mà đối tượng có thể thực hiện
+
+Lớp (Class)
+Lớp là sự trừu tượng hóa của đối tượng. Những đối tượng có những đặc tính tương tự nhau sẽ được tập hợp thành một lớp. Lớp cũng sẽ bao gồm 2 thông tin là thuộc tính và phương thức.
+
+4 đặc tính cơ bản của OOP:
++Tính đóng gói (Encapsulation)
++Tính kế thừa (Inheritance)
++Tính đa hình (Polymorphism)
++Tính trừu tượng (Abstraction)
